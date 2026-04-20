@@ -1,2 +1,3 @@
-# valueeval24-tutorial
-Tutorial for the Winning Submission to ValueEval24 by Team Hierocles of Alexandria
+# pyvalues-tutorial
+
+Tutorial for the [pyvalues](https://github.com/ValueEval/pyvalues) library.
