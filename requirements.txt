@@ -1,0 +1,3 @@
+pyvalues==0.10.0
+valueeval24-hierocles-of-alexandria==0.10.0
+sentencex
